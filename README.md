@@ -95,7 +95,7 @@ In The Hague, neighborhoods with higher average income per income recipient tend
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Python, Pandas, NumPy
 - Matplotlib, Seaborn
