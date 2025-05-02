@@ -45,5 +45,89 @@ The forecast shows that although all housing types are reducing gas consumption,
 
 However, this convergence is theoretical. In practice, differences in size, insulation, and heating needs mean that complete equalization is unlikely to occur, even if the trajectories suggest otherwis
 
+---
+
+### Q3: How does household size affect energy usage per person?
+
+![image_url](https://github.com/Olulu108/NL_energy_project/blob/main/graphs/Q3_hhsize.png) 
+
+By analyzing both electricity and gas usage per person, the plot shows that larger households are more energy-efficient. In contrast, smaller households, such as those with one or two members, tend to consume more energy per individual.
 
 ---
+
+### Q4: Are newer homes (post-2000) more energy-efficient?
+
+![image_url](https://github.com/Olulu108/NL_energy_project/blob/main/graphs/Q4_before2k.png) 
+
+![image_url](https://github.com/Olulu108/NL_energy_project/blob/main/graphs/Q4_before2k22.png) 
+
+![image_url](https://github.com/Olulu108/NL_energy_project/blob/main/graphs/Q4_after2k.png) 
+
+![image_url](https://github.com/Olulu108/NL_energy_project/blob/main/graphs/Q4_before2kDH.png) 
+
+![image_url](https://github.com/Olulu108/NL_energy_project/blob/main/graphs/Q4_before2kDH22.png) 
+
+---
+
+### Q5: Do densely populated neighborhoods have different energy consumption patterns than sparse ones?
+
+![image_url](https://github.com/Olulu108/NL_energy_project/blob/main/graphs/Q5_bev_dich_DH.png) 
+
+In The Hague, neighborhoods with higher population density tend to have lower average household energy consumption. This inverse relationship is consistent for both electricity and gas usage. The trend suggests that denser areas—often associated with smaller dwellings and shared infrastructure—are generally more energy-efficient on a per-household basis.
+
+---
+
+### Q6: Are more expensive homes (woz) also more energy efficient?
+
+![image_url](https://github.com/Olulu108/NL_energy_project/blob/main/graphs/Q6_woz_DH22.png) 
+
+In The Hague (2022), neighborhoods with higher average house values also exhibit higher average energy consumption per household. Both electricity and gas usage increase with property value, as shown by positive linear trends. This suggests that more expensive homes—likely larger and with more appliances or heating demands—consume more energy overall
+
+---
+
+### Q7: How does average income influence energy consumption?
+
+![image_url](https://github.com/Olulu108/NL_energy_project/blob/main/graphs/Q7_ink_DH.png) 
+
+In The Hague, neighborhoods with higher average income per income recipient tend to have higher household energy consumption. This positive relationship holds for both electricity and gas usage. Linear trend lines indicate that as income increases, energy consumption rises—suggesting that wealthier households, likely living in larger homes or with more energy-intensive lifestyles, consume more energy on average.
+
+![image_url](https://github.com/Olulu108/NL_energy_project/blob/main/graphs/Q7_ink_DH22.png) 
+
+---
+
+## Tools Used
+
+- Python, Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn (for regression & forecasting)
+
+---
+
+## Conclusion
+
+This project reveals clear trends in Dutch energy consumption:
+- Smaller homes, newer constructions, and denser neighborhoods are typically more energy-efficient.
+- Wealth and property value correlate with *higher*, not lower, energy use — possibly due to home size and lifestyle.
+
+---
+
+## Future Work
+
+- Incorporate geographic mapping (e.g., GeoPandas or Folium)
+- Use clustering to segment neighborhood types
+- Extend forecasting to electricity usage
+- Compare The Hague with other Dutch cities
+
+---
+
+## Author
+
+Created by **[Olga Pershina]**
+
+Data: © [CBS (Centraal Bureau voor de Statistiek)](https://www.cbs.nl)  
+For questions, suggestions, or contributions, feel free to open an issue or fork the project!
+
+
+
+
+
