@@ -77,7 +77,7 @@ This graph shows the relationship between the share of newer houses (built after
 
 ![image_url](https://github.com/Olulu108/NL_energy_project/blob/main/graphs/Q4_before2kDH.png) 
 
-
+This graph explores how the percentage of older houses (built before 2000) relates to average energy consumption across neighborhoods in The Hague, using data from 2014 to 2022. Electricity consumption decreases by 9 kWh per house for every 1% increase in older housing. Gas consumption increases by 7 m³ per 1%. These trends suggest that in The Hague, neighborhoods with more older homes tend to use less electricity but more gas, possibly due to older heating systems and less efficient insulation.
 
 ==========================================================================================
 
