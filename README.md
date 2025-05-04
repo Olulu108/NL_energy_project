@@ -67,9 +67,11 @@ This graph illustrates the relationship between the percentage of houses built b
 
 This graph shows the relationship between the percentage of houses built before 2000 and the average energy consumption per house for all Dutch municipalities in 2022. Electricity consumption slightly decreased (−7 kWh) and gas consumption increased (+8 m³) for every 1% rise in the share of houses built before 2000. These opposing trends highlight how different energy sources respond to housing age, emphasizing the continued dependence of older homes on gas infrastructure
 
-=
+==========================================================================================
 
 ![image_url](https://github.com/Olulu108/NL_energy_project/blob/main/graphs/Q4_after2k.png) 
+
+This graph shows the relationship between the share of newer houses (built after 2000) and average energy consumption per house, using data from all Dutch municipalities between 2014 and 2022. For every 1% increase in newer housing stock, electricity consumption decreases by 4 kWh and gas consumption drops by 19 m³ per house. This indicates that newer homes are significantly more energy-efficient, especially in terms of gas usage,
 
 ==========================================================================================
 
