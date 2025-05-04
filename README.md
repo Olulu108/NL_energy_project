@@ -61,12 +61,13 @@ By analyzing both electricity and gas usage per person, the plot shows that larg
 
 This graph illustrates the relationship between the percentage of houses built before 2000 and average energy consumption per house, based on data from all municipalities in the Netherlands over the period filtered for the years 2014–2022 for this analysis. Both electricity and gas consumption increase as the share of older buildings rises.
 
-===
+===================================================================
 
 ![image_url](https://github.com/Olulu108/NL_energy_project/blob/main/graphs/Q4_before2k22.png) 
 
 This graph shows the relationship between the percentage of houses built before 2000 and the average energy consumption per house for all Dutch municipalities in 2022. Electricity consumption slightly decreased (−7 kWh) and gas consumption increased (+8 m³) for every 1% rise in the share of houses built before 2000. These opposing trends highlight how different energy sources respond to housing age, emphasizing the continued dependence of older homes on gas infrastructure
 
+****
 
 ![image_url](https://github.com/Olulu108/NL_energy_project/blob/main/graphs/Q4_after2k.png) 
 
