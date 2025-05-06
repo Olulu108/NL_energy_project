@@ -43,7 +43,7 @@ This code forecasts average gas consumption by housing type in the Netherlands t
 
 The forecast shows that although all housing types are reducing gas consumption, detached houses—historically the highest consumers—are declining at the fastest rate. Based on this trend, detached homes could approach the consumption levels of other types by around 2035.
 
-However, this convergence is theoretical. In practice, differences in size, insulation, and heating needs mean that complete equalization is unlikely to occur, even if the trajectories suggest otherwis
+However, this convergence is theoretical. In practice, differences in size, insulation, and heating needs mean that complete equalization is unlikely to occur, even if the trajectories suggest otherwis.
 
 ---
 
@@ -59,15 +59,33 @@ By analyzing both electricity and gas usage per person, the plot shows that larg
 
 ![image_url](https://github.com/Olulu108/NL_energy_project/blob/main/graphs/Q4_before2k.png) 
 
+This graph illustrates the relationship between the percentage of houses built before 2000 and average energy consumption per house, based on data from all municipalities in the Netherlands over the period filtered for the years 2014–2022 for this analysis. Both electricity and gas consumption increase as the share of older buildings rises.
+
+=====================================================================
+
 ![image_url](https://github.com/Olulu108/NL_energy_project/blob/main/graphs/Q4_before2k22.png) 
+
+This graph shows the relationship between the percentage of houses built before 2000 and the average energy consumption per house for all Dutch municipalities in 2022. Electricity consumption slightly decreased (−7 kWh) and gas consumption increased (+8 m³) for every 1% rise in the share of houses built before 2000. These opposing trends highlight how different energy sources respond to housing age, emphasizing the continued dependence of older homes on gas infrastructure.
+
+=====================================================================
 
 ![image_url](https://github.com/Olulu108/NL_energy_project/blob/main/graphs/Q4_after2k.png) 
 
+This graph shows the relationship between the share of newer houses (built after 2000) and average energy consumption per house, using data from all Dutch municipalities between 2014 and 2022. For every 1% increase in newer housing stock, electricity consumption decreases by 4 kWh and gas consumption drops by 19 m³ per house. This indicates that newer homes are significantly more energy-efficient, especially in terms of gas usage.
+
+=====================================================================
+
 ![image_url](https://github.com/Olulu108/NL_energy_project/blob/main/graphs/Q4_before2kDH.png) 
+
+This graph explores how the percentage of older houses (built before 2000) relates to average energy consumption across neighborhoods in The Hague, using data from 2014 to 2022. Electricity consumption decreases by 9 kWh per house for every 1% increase in older housing. Gas consumption increases by 7 m³ per 1%. These trends suggest that in The Hague, neighborhoods with more older homes tend to use less electricity but more gas, possibly due to older heating systems and less efficient insulation.
+
+=====================================================================
 
 ![image_url](https://github.com/Olulu108/NL_energy_project/blob/main/graphs/Q4_before2kDH22.png) 
 
----
+This graph shows the relationship between the percentage of older houses (built before 2000) and average energy consumption across neighborhoods in The Hague (2022). Electricity consumption drops by 7 kWh for every 1% increase in older homes. Gas consumption rises by 8 m³ per 1%. These trends suggest that neighborhoods with more pre-2000 housing tend to use less electricity but more gas, likely reflecting outdated heating systems and less energy-efficient construction
+
+=====================================================================
 
 ### Q5: Do densely populated neighborhoods have different energy consumption patterns than sparse ones?
 
